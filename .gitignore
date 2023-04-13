@@ -1,0 +1,5 @@
+.vscode/
+unit_tests/
+test_files/
+out/
+a.out/
